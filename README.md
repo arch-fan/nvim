@@ -1,4 +1,9 @@
-# 💤 LazyVim
+# 💤 LazyVim dotfiles
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+@arch-fan's neovim dotfiles using LazyVim.
+
+For setting up the dotfiles, run the following command:
+
+```bash
+git clone --depth 1 https://github.com/arch-fan/nvim.git ~/.config/nvim
+```
